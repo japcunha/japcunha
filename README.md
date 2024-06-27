@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @japcunha
-- 👀 Studying and improving my skills in Science Analytcs and Python.
+- 👀 Studying and improving my skills in HTML, CSS and Javascript.
 🚀 Doing ADS at @Descomplica Faculdade.
 contact me joaneapc@gmail.com
 <!---
